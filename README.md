@@ -18,4 +18,7 @@ A simple template for Classification models.
 
 ## Dataset used
 
-[Breast Cancer](https://www.kaggle.com/datasets/adhamelkomy/breast-cancer) by [adham elkomy](https://www.kaggle.com/adhamelkomy), via Kaggle.com
+<!-- APA 7th edition -->
+<!-- https://www.scribbr.com/citation/generator -->
+
+Elkomy, A. (2024). Breast cancer. Kaggle. <https://www.kaggle.com/datasets/adhamelkomy/breast-cancer>
