@@ -1,6 +1,11 @@
 # ML-Template
 
-A simple template for Classification models.
+Templates for Machine Learnings models.
+
+## Folder Structure
+
+- `/classification/` contains the classification models
+- `/regression/` will contain the regression models
 
 ## Sections
 
@@ -12,9 +17,15 @@ A simple template for Classification models.
 
 ## Models covered
 
+### Classification
+
 - [KNeighborsClassifier()](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
 - [RandomForestClassifier()](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 - [DecisionTreeClassifier()](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
+
+### Regression
+
+- TODO
 
 ## Dataset used
 
