@@ -2,10 +2,10 @@
 
 Templates for Machine Learnings models.
 
-## Folder Structure
+## Folder structure
 
-- `/classification/` contains the classification models
-- `/regression/` will contain the regression models
+- `/classification/` contains classification models
+- `/regression/` will contain regression models
 
 ## Sections
 
